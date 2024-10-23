@@ -1,5 +1,6 @@
 use std::collections::VecDeque;
 
+/// ### Alias for `VecDeque<T>`.
 pub type Deque<T> = VecDeque<T>;
 
 /// ### Defaults the behavior of `push` and `pop`.

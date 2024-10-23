@@ -1,6 +1,6 @@
 [package]
 name = "lifo"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Simple last-in first-out api wrapper for std `VecDeque<T>`."
 license = "MIT OR Apache-2.0"
